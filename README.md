@@ -31,9 +31,9 @@ S3> racct/DY_Position_SD/file_0_100.2019-06-17.13_39_12.IQ.csv.gz 45
 ...
 ...
 ...
-| 23 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
-| 24 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
-| 25 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
+| 43 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
+| 44 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
+| 45 | TEST-OPS-TEST      | USD   | TEST     | CURRENCY | CAD.C-TEST | CANADIAN TEST                | 0.0       | 0.0         | 0.0         | LONG   | 0.0
 
 
 ```
