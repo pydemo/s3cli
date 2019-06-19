@@ -23,4 +23,4 @@ S3>
 S3> racct/DY_Position_SD/file_0_100.2019-06-17.13_39_12.IQ.csv.gz 45
 ```
 
-[![Screenshot](https://raw.githubusercontent.com/pydemo/s3cli/master/s2cli.PNG)]
+![Screenshot](https://raw.githubusercontent.com/pydemo/s3cli/master/s2cli.PNG)
